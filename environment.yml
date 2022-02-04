@@ -5,5 +5,5 @@ dependencies:
   - pip:
     - beautifulsoup4
     - undetected-chromedriver
-    - chromium-chromedriver
+    - chromium-driver
 prefix: /Users/dicksonsuleiman/anaconda3/envs/streamlit_env
